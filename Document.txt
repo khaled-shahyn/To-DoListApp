@@ -1,0 +1,28 @@
+Team:
+خالد أحمد عبد الهادي
+جمال عبد الناصر رضوان
+زياد محمد شفيق
+
+App Idea:
+To-Do List App
+
+App Documentation:
+
+1. Getting Started
+Download and install the app from the App Store/Play Store.
+
+2. Adding Tasks
+Tap the "+" button to add a new task.
+Enter the task name and optional details.
+Press "Save" to add the task to your list.
+
+3. Managing Tasks
+Tap on a task to view details.
+Tap the "🗑️​" button to delete a task.
+
+4. Organizing Tasks
+Use categories or tags to organize tasks.
+
+5. Reminders
+Set due dates and reminders for tasks.
+Receive notifications for upcoming tasks.
